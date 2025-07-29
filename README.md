@@ -4,7 +4,8 @@ DayBook is a secure and user-friendly personal journaling app built with the MER
 
 [Live Demo](https://daybook-mern.vercel.app)
 
-Head over to the [Vercel deployment branch](https://github.com/thenileshnishad/daybook/tree/deployment) if you want to see how the deployment is set up (you can find the relevant details in their `package.json` file).
+# Screenshots
+<img width="1920" height="1020" alt="Screenshot 2025-07-29 172257" src="https://github.com/user-attachments/assets/97657d60-089d-4029-875c-b744384eba98" />
 
 ---
 
@@ -139,38 +140,34 @@ Follow these steps to set up the project locally:
 
 ### Prerequisites
 
-- [Git](https://git-scm.com/)
+
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
 ### Backend Setup
 
 1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/thenileshnishad/daybook.git
-
+2. 
    cd daybook/backend
-   ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Configure Environment Variables:**
+4. **Configure Environment Variables:**
 
    Create a `.env` file in the `backend` directory and set the variables accordingly:
 
    ```env
-   PORT=3000
-   MONGO_URI=mongodb://localhost:27017/daybook
-   JWT_SECRET=rushB@5678
-   FRONTEND_URL=http://localhost:5173
+   PORT=
+   MONGO_URI=
+   JWT_SECRET=
+   FRONTEND_URL=
    ```
 
-4. **Start the backend server:**
+5. **Start the backend server:**
 
    ```bash
    npm start
