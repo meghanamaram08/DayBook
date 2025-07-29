@@ -9,7 +9,7 @@ DayBook is a secure and user-friendly personal journaling app built with the MER
 <img width="900" height="510" alt="Screenshot 2025-07-29 173355" src="https://github.com/user-attachments/assets/efffe5d2-e749-4920-a8b9-50b3fb705f12" />
 <img width="900" height="510" alt="Screenshot 2025-07-29 173453" src="https://github.com/user-attachments/assets/1505f867-7755-4df7-b761-3b6ff1e4df7e" />
 <img width="778" height="870" alt="Screenshot 2025-07-29 173722" src="https://github.com/user-attachments/assets/717d872a-bbef-44d1-a0d9-ad9c9747da58" />
-<img width="400" height="371" alt="Screenshot 2025-07-29 173732" src="https://github.com/user-attachments/assets/c32476fe-54dc-4bd9-876a-18e0a03b683b" />
+<img width="400" height="280" alt="Screenshot 2025-07-29 173732" src="https://github.com/user-attachments/assets/c32476fe-54dc-4bd9-876a-18e0a03b683b" />
 <img width="900" height="510" alt="Screenshot 2025-07-29 172606" src="https://github.com/user-attachments/assets/00d93980-a9b6-4796-b4da-371d214c0614" />
 
 
